@@ -1,0 +1,8 @@
+program 
+
+var
+
+begin
+
+
+end.
